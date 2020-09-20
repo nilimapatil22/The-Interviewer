@@ -9,5 +9,5 @@ The architecture characterizes the system.   Candidate gives greetings as input.
 
 ![Architecture](archi.png)
 
-
-![Output](output.png)
+## Output:-
+![Output](output.PNG)
